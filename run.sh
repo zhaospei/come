@@ -12,7 +12,7 @@ mkdir -p exp/$date/output/retrieval
 mkdir -p summary/s1
 mkdir -p summary/s1
 
-batch_size=12
+batch_size=6
 max_source_length=512
 max_target_length=100
 output_dir=./exp/$date/output
